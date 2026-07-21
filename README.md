@@ -1,16 +1,38 @@
-## Hi there 👋
+##Hi there, I'm Rajit Sahu 👋
 
-<!--
-**RajitSahu2006/RajitSahu2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student (Cybersecurity specialisation), India  
+💻 Learning Python and Programming  
+📚 Curious about AI, Business, and Technology
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#🌱 Currently Learning
+
+- 🐍 Python
+- 🧠 Problem Solving
+- 📊 Data Structures & Algorithms 
+- 🤖 AI Tools
+
+
+## 🛠️ Technologies & Tools
+
+- Python
+- VS Code
+- Windows
+- Generative AI
+
+---
+
+## 📂 Current Projects
+
+- 💸 Expense Tracker (Python)
+- 🔐 Caesar Cypher
+- 🎮 Small Python Games
+- 📖 Daily Python Practice
+
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/RajitSahu2006
+
+⭐ Thanks for visiting my profile!
