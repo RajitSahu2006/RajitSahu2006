@@ -1,4 +1,4 @@
-##Hi there, I'm Rajit Sahu 👋
+## 💫 Hi there, I'm Rajit Sahu 
 
 🎓 B.Tech CSE student (Cybersecurity specialisation), India  
 💻 Learning Python and Programming  
@@ -6,7 +6,7 @@
 
 
 
-##🌱 **Currently Learning**
+## 🌱 **Currently Learning**
 
 - 🐍 Python
 - 🧠 Problem Solving
