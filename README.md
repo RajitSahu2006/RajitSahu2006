@@ -6,7 +6,7 @@
 
 
 
-#🌱 Currently Learning
+##🌱 **Currently Learning**
 
 - 🐍 Python
 - 🧠 Problem Solving
@@ -21,7 +21,6 @@
 - Windows
 - Gen AI
 
----
 
 ## 📂 Current Projects
 
