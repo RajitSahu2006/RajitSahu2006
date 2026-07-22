@@ -19,7 +19,7 @@
 - Python
 - VS Code
 - Windows
-- Generative AI
+- Gen AI
 
 ---
 
