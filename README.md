@@ -24,9 +24,8 @@
 
 ## 📂 Current Projects
 
-- 💸 Expense Tracker (Python)
-- 🔐 Caesar Cypher
-- 🎮 Small Python Games
+- Wifi-Password_Viewer (Python)
+- 🔐 Caesar Cypher(upcoming)
 - 📖 Daily Python Practice
 
 
